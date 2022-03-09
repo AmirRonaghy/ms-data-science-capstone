@@ -1,10 +1,10 @@
 This repository hosts my Master of Science capstone project involving the creation of a document clustering application leveraging natural language processing and machine learning in Python.
 
-The document clustering script is contained in the file titled "NASA_project_model_lda_kmeans_revised2". To run the this script, you will need Python 3.7 and above and an active network connection. 
+The document clustering script is contained in the file titled "NASA_project_model_lda_kmeans_revised2.py". To run the this script, you will need Python 3.7 and above and an active network connection. 
 
 Follow the instructions below:
 
-1) Download the "NASA_project_model_lda_kmeans_revised2" script file to your desktop.
+1) Download "NASA_project_model_lda_kmeans_revised2.py".
 
 2) Ensure the following modules have been installed:
 
@@ -17,7 +17,7 @@ Follow the instructions below:
 - Matplotlib
 - Lxml
 
-3) From the IDE of your choise, open the "NASA_project_model_lda_kmeans_revised2" file and run the script. It should take a few minutes to complete.
+3) From the IDE of your choise, open "NASA_project_model_lda_kmeans_revised2.py" and run the script. It should take a few minutes to complete.
 
 The following resources were used for guidance in developing the script:
 
